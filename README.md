@@ -1,5 +1,18 @@
 # Smooth Scrollbar
 
+speed: 1,
+                damping: .1,
+                thumbMinSize: 20,
+                syncCallbacks: !1,
+                renderByPixels: !0,
+                alwaysShowTracks: !1,
+                continuousScrolling: "auto",
+                overscrollEffect: !1,
+                overscrollEffectColor: "#87ceeb",
+                overscrollDamping: .2
+                
+                
+
 Customizable, Flexible, and High Performance Scrollbars!
 
 [![npm][npm-version-badge]](https://www.npmjs.com/package/smooth-scrollbar)
